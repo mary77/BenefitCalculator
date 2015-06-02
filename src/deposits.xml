@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<deposits>
+    <deposit>
+        <customerNumber>432</customerNumber>
+        <depositType>LongTerm</depositType>
+        <depositBalance>300000000000000000000000000000000000000000000000</depositBalance>
+        <durationInDays>23</durationInDays>
+    </deposit>
+    <deposit>
+        <customerNumber>878</customerNumber>
+        <depositType>ShortTerm</depositType>
+        <depositBalance>33000000</depositBalance>
+        <durationInDays>23</durationInDays>
+    </deposit>
+    <deposit>
+        <customerNumber>876</customerNumber>
+        <depositType>Qarz</depositType>
+        <depositBalance>4500000</depositBalance>
+        <durationInDays>12</durationInDays>
+    </deposit>
+    <deposit>
+        <customerNumber>666</customerNumber>
+        <depositType>jadid</depositType>
+        <depositBalance>545555555550</depositBalance>
+        <durationInDays>23</durationInDays>
+    </deposit>
+
+</deposits>
